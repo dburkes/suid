@@ -10,7 +10,7 @@ SUIDs are sorta unique IDs. A SUID is similar to a UUID, except that SUIDs
 
 * Are semi human-readable
 
-* Don't make URLs ridiculously long
+* Don't make URLs look ridiculous
 
 A SUID consists of 11 characters from the set [A-Za-z0-9], so the resulting namespace can hold 62^11 unique values.  That's a lot smaller
 namespace than UUIDs, but, if it's good enough for YouTube URLs, I'm willing to bet it's good enough for a lot of other things too.
