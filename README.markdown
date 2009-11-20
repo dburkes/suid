@@ -1,6 +1,6 @@
 ## SUID : A gem to generate sorta unique IDs
 
-  Github: http://github.com/dburkes/suid
+  github: http://github.com/dburkes/suid
   
 ## Intro
 
