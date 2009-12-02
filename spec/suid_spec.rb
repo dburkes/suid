@@ -16,6 +16,6 @@ describe SUID do
     s1 = SUID.generate
     srand(0xf00)
     s2 = SUID.generate
-    s1.should == s1
+    s1.should == s2
   end
 end
