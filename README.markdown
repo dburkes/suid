@@ -1,7 +1,7 @@
 ## SUID : A gem to generate sorta unique IDs
 
-    github: [http://github.com/dburkes/suid](http://rdoc.info/projects/dburkes/suid)
-    rdocs: [http://rdoc.info/projects/dburkes/suid](http://rdoc.info/projects/dburkes/suid)
+  github: [http://github.com/dburkes/suid](http://rdoc.info/projects/dburkes/suid)
+  rdocs: [http://rdoc.info/projects/dburkes/suid](http://rdoc.info/projects/dburkes/suid)
   
 ## Intro
 
