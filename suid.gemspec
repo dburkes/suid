@@ -5,20 +5,29 @@
 
 Gem::Specification.new do |s|
   s.name = %q{suid}
-  s.version = "1.0.0"
+  s.version = "1.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Danny Burkes"]
-  s.date = %q{2009-11-20}
+  s.date = %q{2010-03-08}
   s.description = %q{Sorta Unique ID}
   s.email = %q{dburkes@netable.com}
   s.extra_rdoc_files = [
     "README.markdown"
   ]
+  s.files = [
+    ".gitignore",
+     "README.markdown",
+     "Rakefile.rb",
+     "lib/suid.rb",
+     "spec/suid_spec.rb",
+     "suid-1.0.0.gem",
+     "suid.gemspec"
+  ]
   s.homepage = %q{http://github.com/dburkes/suid}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.5}
+  s.rubygems_version = %q{1.3.6}
   s.summary = %q{Sorta Unique ID}
   s.test_files = [
     "spec/suid_spec.rb"
