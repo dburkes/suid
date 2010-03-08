@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
      "Rakefile.rb",
      "lib/suid.rb",
      "spec/suid_spec.rb",
-     "suid-1.0.0.gem",
      "suid.gemspec"
   ]
   s.homepage = %q{http://github.com/dburkes/suid}
