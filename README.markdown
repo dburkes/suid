@@ -33,3 +33,7 @@ namespace than UUIDs, but, if it's good enough for YouTube URLs, I'm willing to 
 
 * You can seed the random number generator if you want with `srand`, but ruby does that automatically when it starts up, so, unless
 you purposefully want to create duplicate SUIDs, don't bother.
+
+## License
+
+SUID is released under the MIT License
