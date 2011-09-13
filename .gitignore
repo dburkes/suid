@@ -1,1 +1,4 @@
 *.tmproj
+.bundle
+.rvmrc
+Gemfile.lock

@@ -1,4 +1,4 @@
-require 'lib/suid'
+require 'spec_helper'
 
 describe SUID do
   it "should generate sorta unique ids" do
